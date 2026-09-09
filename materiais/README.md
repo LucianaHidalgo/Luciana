@@ -15,7 +15,13 @@ da explicação e foi feito para ser lido em sequência.
 - **Callouts** (caixas de observação) para dicas, avisos e variações.
 - Rodapé: "Guia elaborado a partir de gravação de tela".
 
-## Índice da série
+## Guia Completo (vídeo inteiro)
+
+| Pasta | Material | Conteúdo | Status |
+|-------|----------|----------|--------|
+| `00-guia-completo/` | `Guia_Completo_Claude_Google_Ads.pdf` | **Guia único, do início ao fim**, do vídeo completo (1h25 / "Explicação do Claude.mp4", baixado do Google Drive). Fundo branco com detalhes verde e dourado; 22 páginas, 19 passos em 6 seções: (1) assinar o plano Pro e instalar/fixar a extensão; (2) abrir e usar o painel no Google Ads; (3) dar o comando e o Claude trabalhar sozinho; (4) escolher o modelo/esforço/pensamento e ler o diagnóstico do CPC + recomendações; (5) analisar prints/planilhas e ativar a Memória; (6) Projetos e as "Regras de Ouro da Validação" (instruções + contexto + validação de métricas). Substitui/consolida as Partes 1–4. | ✅ Concluído |
+
+## Índice da série (partes avulsas)
 
 | # | Pasta | Material | Conteúdo | Status |
 |---|-------|----------|----------|--------|

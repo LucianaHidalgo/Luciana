@@ -18,6 +18,18 @@ mencionado no áudio. Os materiais são pensados para serem lidos em sequência 
 - Pasta `materiais/` — ver `materiais/README.md` para o índice completo e o padrão
   visual dos guias.
 
+## Guia Completo (vídeo inteiro)
+- **`materiais/00-guia-completo/Guia_Completo_Claude_Google_Ads.pdf`** — guia único do
+  vídeo completo de 1h25 ("Explicação do Claude.mp4", baixado do Google Drive via link).
+  **Fundo branco com detalhes verde e dourado** (padrão pedido pela usuária para este
+  guia), 22 páginas, 19 passos em 6 seções: assinar/instalar; painel no Google Ads;
+  comando + Claude trabalhando; modelo/esforço/pensamento + diagnóstico do CPC +
+  recomendações; prints/planilhas + Memória; Projetos + Regras de Ouro. Consolida as
+  Partes 1–4 num só material.
+- Vídeos grandes (>~100 MB) não sobem pelo chat: a usuária envia por link do Google
+  Drive e eu baixo direto com `curl` (endpoint `drive.usercontent.google.com/download?
+  id=<ID>&export=download&confirm=t`), processo com ffmpeg/faster-whisper e monto o PDF.
+
 ## Estado atual da série
 - **Parte 1** (`materiais/01-extensao-claude-chrome/`): instalar a extensão "Claude
   para Chrome" e abrir o painel sobre o Google Ads. Termina ao abrir o painel.
