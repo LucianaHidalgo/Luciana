@@ -29,8 +29,13 @@ mencionado no áudio. Os materiais são pensados para serem lidos em sequência 
   análise (CPC alto → como diminuir), Claude trabalhando sozinho ("começou a depurar
   o navegador", X ações) e o modo de aprovação (manual x automático). Termina com o
   Claude analisando em modo automático.
-- **Próxima parte:** continuar a partir dos resultados da análise do CPC / ajustes
-  (aguardando material).
+- **Parte 4** (`materiais/04-modelos-e-resultado-analise/`): manter "aprovar
+  automaticamente", seletor de modelos (Sonnet 5 x Fable/Opus/Haiku), esforço e
+  pensamento, deixar analisar (pode demorar) e o resultado — diagnóstico do CPC alto
+  (estratégia "Maximizar cliques" no teto de R$ 0,60) + recomendações (reduzir o CPC
+  máximo / trocar para "Maximizar conversões"; pode pedir "faz para mim").
+- **Próxima parte:** aplicar os ajustes recomendados (reduzir CPC máximo / trocar
+  estratégia), manual ou pedindo ao Claude (aguardando material).
 
 ## Padrão a manter em novos materiais
 1. PDF A4, capa "Mentoria Alvo" (verde + dourado).
