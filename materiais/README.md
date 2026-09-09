@@ -21,14 +21,18 @@ da explicação e foi feito para ser lido em sequência.
 |---|-------|----------|----------|--------|
 | 1 | `01-extensao-claude-chrome/` | `Guia_Claude_Extensao_Chrome.pdf` | Assinar o plano pago, instalar a extensão "Claude para Chrome", fixá-la na barra e abrir o painel sobre o Google Ads. Termina no momento em que o painel é aberto (Passo 11). | ✅ Concluído |
 | 2 | `02-painel-claude-google-ads/` | `Guia_Claude_Painel_Google_Ads_Parte2.pdf` | **Continua a Parte 1.** Com o painel já aberto: permitir o acesso à tela, entender que o Claude enxerga a campanha, conversar pelo chat, escolher o modelo (Sonnet 5) e usar o "+" para anexar arquivos. Termina na apresentação do botão "+". | ✅ Concluído |
-| 3 | _(a definir)_ | _(a definir)_ | Continuação — a partir do uso do "+"/anexos. Aguardando novo vídeo/material. | ⏳ Pendente |
+| 3 | `03-comandos-analise-claude/` | `Guia_Claude_Comandos_Analise_Parte3.pdf` | **Continua a Parte 2.** O que o "+" aceita (texto/imagem, não vídeo), comando por voz (microfone), escrever o comando de análise (ex.: "por que o CPC está tão alto e como diminuir"), acompanhar o Claude trabalhando sozinho ("começou a depurar o navegador", X ações, navega até Palavras-chave/Configurações) e escolher o modo de aprovação (manual x automático x ignorar todas). Termina com o Claude analisando em modo automático. | ✅ Concluído |
+| 4 | _(a definir)_ | _(a definir)_ | Continuação — a partir dos resultados da análise do CPC / ajustes. Aguardando novo vídeo/material. | ⏳ Pendente |
 
 ## Como a série se conecta (continuidade)
 - **Parte 1 → Parte 2:** a Parte 1 termina exatamente quando o painel do Claude é
   aberto sobre o Google Ads. A Parte 2 começa desse ponto (permissão de acesso à tela).
-- **Parte 2 → próximas partes:** a Parte 2 termina quando o botão "+" (anexar arquivo)
-  é apresentado. O próximo material deve continuar a partir daí (ex.: anexar um
-  arquivo e pedir uma análise concreta da campanha).
+- **Parte 2 → Parte 3:** a Parte 2 termina quando o botão "+" (anexar arquivo) é
+  apresentado. A Parte 3 começa daí (o que o "+" aceita) e mostra o Claude analisando
+  a campanha de fato.
+- **Parte 3 → próximas partes:** a Parte 3 termina com o Claude trabalhando sozinho
+  (modo de aprovação automática) na análise do CPC. O próximo material deve continuar
+  a partir dos resultados dessa análise / dos ajustes sugeridos.
 
 ## Instruções para novos materiais (integração)
 Quando um novo vídeo/trecho for enviado:

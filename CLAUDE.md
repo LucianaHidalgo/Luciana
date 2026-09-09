@@ -19,7 +19,13 @@ mencionado no áudio. Os materiais são pensados para serem lidos em sequência 
 - **Parte 2** (`materiais/02-painel-claude-google-ads/`): usar o painel já aberto —
   permitir acesso à tela, chat, modelo (Sonnet 5) e botão "+" (anexar). Termina na
   apresentação do botão "+".
-- **Próxima parte:** continuar a partir do uso do "+"/anexos (aguardando material).
+- **Parte 3** (`materiais/03-comandos-analise-claude/`): o que o "+" aceita
+  (texto/imagem, não vídeo), comando por voz (microfone), escrever o comando de
+  análise (CPC alto → como diminuir), Claude trabalhando sozinho ("começou a depurar
+  o navegador", X ações) e o modo de aprovação (manual x automático). Termina com o
+  Claude analisando em modo automático.
+- **Próxima parte:** continuar a partir dos resultados da análise do CPC / ajustes
+  (aguardando material).
 
 ## Padrão a manter em novos materiais
 1. PDF A4, capa "Mentoria Alvo" (verde + dourado).
