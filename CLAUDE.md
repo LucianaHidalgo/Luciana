@@ -9,6 +9,11 @@ numeradas e sinalizadas com retângulos e setas vermelhas**, destacando tudo o q
 mencionado no áudio. Os materiais são pensados para serem lidos em sequência e
 **integrados** conforme novos vídeos chegam.
 
+## Preferência da usuária (SEMPRE)
+- **Todo pedido deve ser entregue com o PDF pronto para baixar** no chat (enviar o
+  arquivo com a ferramenta de envio de arquivo / `display: attach`), além de salvar
+  no repositório. Nunca só descrever o resultado: sempre anexar o PDF baixável.
+
 ## Onde ficam os materiais
 - Pasta `materiais/` — ver `materiais/README.md` para o índice completo e o padrão
   visual dos guias.
